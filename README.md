@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://https://miro.medium.com/max/1400/0*JKyzq_e9TUlb84wX “add your alt text”)
-
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 <!--
 **Ragav1196/Ragav1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
